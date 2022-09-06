@@ -6,7 +6,7 @@ import java.awt.*;
  * Title: Клиент приложений проекта iRule
  * </p>
  * <p>
- * Description:
+ * Description: главное окно
  * </p>
  *
  * <p>Copyright: Copyright SPI (c) 2021</p>
